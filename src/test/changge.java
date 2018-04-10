@@ -13,6 +13,10 @@ public class changge {
 			File fi = new File(url1);
 			File f2 = new File(url+"/"+i+".ts");
 			fi.renameTo(f2);
+			
+			
+			
+			
 		}
 		
 	}
