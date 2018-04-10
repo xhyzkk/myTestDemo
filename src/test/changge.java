@@ -21,6 +21,10 @@ public class changge {
 			
 			
 			System.out.println();
+			System.out.println();
+			System.out.println();
+			System.out.println();
+			System.out.println();
 			
 			
 		}
